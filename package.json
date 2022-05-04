@@ -1,0 +1,18 @@
+{
+  "name": "techjobs",
+  "version": "1.0.0",
+  "description": "TechJobs portal with NodeJS, Handlebars Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Mirena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
